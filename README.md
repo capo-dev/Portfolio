@@ -17,19 +17,26 @@ In this project, I built a mini honeynet in Azure to simulate an insecure enviro
 ![Honeynet Architecture](https://github.com/capo-dev/SOC-Honeynet-in-Azure)  
 *Click on the image to see the architecture.*
 
+### 🛡️ Building Incident Response Playbooks: A Comprehensive Guide
+This project is designed to help security professionals create comprehensive **Incident Response Playbooks**. It offers a step-by-step methodology to assist organizations in drafting customized playbooks for different types of security incidents. Whether dealing with **phishing attacks**, **ransomware**, or **insider threats**, this guide provides detailed playbooks and actionable insights to help security teams respond effectively and mitigate risks.  
+
+The playbooks address key incidents like:
+
+- **Phishing Attacks**  
+- **Ransomware**  
+- **Data Breaches**  
+- **DDoS Attacks**  
+- **Insider Threats**  
+- **Cloud Misconfigurations**
+
+The project emphasizes building flexible, actionable playbooks that can be tailored to different organizational environments. By following the methodology provided, organizations can ensure a robust response to incidents, reduce potential damage, and recover swiftly from attacks.
+
+[View the Incident Response Playbook Project](https://github.com/capo-dev/IR-Playbooks)  
+
+---
+
 ### 🔒 [Windows PyWare](https://github.com/capo-dev/Windows-PyWare)
 **Category**: Windows Development, Python  
 **Technologies**: Python, Windows, Sockets, Encryption  
 **Description**:  
 A simple Python-based spyware for Windows that can record key presses and take screenshots. It’s a learning project focused on Windows internals and stealthy programming techniques.
-
-![Windows PyWare Demo](https://github.com/capo-dev/Windows-PyWare)  
-*Click on the image to see the demo.*
-
-### 🌐 [Web Development Portfolio] [WIP]
-**Category**: Web Development  
-**Technologies**: HTML, CSS, JavaScript, React, Node.js  
-**Description**:  
-This is my personal web development portfolio where I showcase various web-based projects and my skills in front-end and back-end technologies. The site is built with React and Node.js and hosted on GitHub Pages.
-
----
